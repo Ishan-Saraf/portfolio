@@ -7,10 +7,8 @@ export const Bio = {
       "Programmer",
     ],
     description:
-      "I am an enthusiastic and adaptable person, always keen to embrace new challenges. Driven by a passion for continuous learning,",
+      "I am an enthusiastic and adaptable person, always keen to embrace new challenges. Driven by a passion for continuous learning.",
     github: "https://github.com/Ishan-Saraf",
-    resume:
-      "https://drive.google.com/file/d/188WqUVFthiFIwe97n6KEw_dFk8HLhNI7/view?usp=drive_link",
     linkedin: "https://www.linkedin.com/in/ishan-saraf-31279a227/",
     leetcode: "https://leetcode.com/u/Ishan_Saraf/",
     codestudio: "https://www.naukri.com/code360/profile/Ishan_Saraf",
