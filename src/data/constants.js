@@ -153,6 +153,32 @@ export const Bio = {
     //   webapp: "",
     // },
     {
+      id: 6,
+      title: "Wisper",
+      description:
+        "Welcome to the Wisper Chat App repository! Wisper is a PC browser-based chatting application designed to provide users with a seamless and secure platform for real-time communications. Built with a modern tech stack including HTML, CSS, JavaScript, React, Express, and several other powerful technologies, Wisper offers an intuitive and interactive user experience.",
+      image:
+        "https://lh3.googleusercontent.com/pw/AP1GczNVQTZGFTfAjZhQzq_w02rKgahrtTxv6vx8QKiRsM50b3jN6hFPz4-rc2E6W2YVrBaY9Eh4MlWOzBdR-kZtYAg_xNclsnUAmueZz0S2g8lnvhPtJ3o=w2400",
+      tags: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Axios",
+        "Styled-components",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Mongoose",
+        "Socket.io",
+        "Bcrypt",
+        "CORS"
+      ],
+      category: "web app",
+      github: "https://github.com/Ishan-Saraf/Wisper",
+      webapp: "https://chat-app-wisper.netlify.app/",
+    },
+    {
       id: 0,
       title: "Note Hub",
       description:
