@@ -28,7 +28,7 @@ const HeroSection = () => {
                             </Span>
                         </TextLoop>
                         <SubTitle>{Bio.description}</SubTitle>
-                        <Button href= "mailto: ishaansaraf03@email.com" target='display'>Connect with me!</Button>
+                        <Button href= "mailto: ishaansaraf03@gmail.com" target='display'>Connect with me!</Button>
                     </HeroLeftContainer>
 
                     <HeroRightContainer id="Right">
